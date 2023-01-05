@@ -100,7 +100,7 @@
     "eslint-plugin-vue": "^5.2.3",
     "exports-loader": "^0.7.0",
     "file-loader": "^5.0.2",
-    "handlebars-loader": "^1.7.1",
+    "handlebars-loader": "^1.7.3",
     "node-sass": "^4.13.1",
     "sass-loader": "^8.0.2",
     "style-loader": "^1.1.3",
